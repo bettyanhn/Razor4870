@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/betty/dev/4870/Razer4870/Razer4870.csproj": {}
+  },
+  "projects": {
+    "/Users/betty/dev/4870/Razer4870/Razer4870.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/betty/dev/4870/Razer4870/Razer4870.csproj",
+        "projectName": "Razer4870",
+        "projectPath": "/Users/betty/dev/4870/Razer4870/Razer4870.csproj",
+        "packagesPath": "/Users/betty/.nuget/packages/",
+        "outputPath": "/Users/betty/dev/4870/Razer4870/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/betty/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
